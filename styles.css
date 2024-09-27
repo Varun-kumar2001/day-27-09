@@ -1,0 +1,33 @@
+*{
+    background-color: darkgray;
+   
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3%;
+    background-color: darkgrey;
+
+}
+.card img{
+    padding: 10px;
+    
+
+}
+.card-body a{
+    background-color: orange;
+    align-content: right;
+}
+.card-body h5{
+    color: orange;
+}
+.card-body a span{
+    color: aliceblue;
+  
+}
+.card-body p{
+    display: flex;
+    justify-content: space-between;
+
+}
