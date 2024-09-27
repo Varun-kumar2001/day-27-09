@@ -26,8 +26,13 @@
     color: aliceblue;
   
 }
-.card-body p{
+
+.cars{
     display: flex;
     justify-content: space-between;
-
+    align-items: center;
+}
+.price{
+    color: green;
+    font-size: xx-large;
 }
